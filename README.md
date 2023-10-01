@@ -21,7 +21,7 @@
 <br/>  
 
 
-## 🛠️ Skills:  
+## 🛠️ Skills  
 <table><tr><td valign="top" width="50%">
 
 

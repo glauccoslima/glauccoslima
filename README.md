@@ -3,10 +3,10 @@
   </div>  
     
   
-  ### <div align="center">Olá 👋, com anos de experiência em Suporte e Manutenção de Sistemas de TI, estou em busca de uma nova oportunidade para aplicar e expandir minhas habilidades de programação 💻.</div>  
+  ### <div align="center">Sou Desenvolvedor Front-End apaixonado, com 13 anos de experiência em suporte e manutenção de sistemas de TI. Estou animado para mergulhar mais fundo na área de desenvolvimento web, uma área que sempre me fascinou.</div>  
     
   
-  - 🔍 Objetivo Profissional: Almejo uma posição como Engenheiro de Software ou Desenvolvedor Full Stack, com o intuito de colaborar com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.  
+  - 🔍 Objetivo Profissional: Almejo uma posição como Engenheiro de Software ou Desenvolvedor front-end, com o intuito de colaborar com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.  
     
   
   - 🌱 Comprometimento: Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha experiência, me qualifica como um candidato ideal para a posição.  

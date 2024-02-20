@@ -3,7 +3,7 @@
   </div>  
     
   
-  ### <div align="center">Sou Desenvolvedor Full Stack apaixonado, com 13 anos de experiência em suporte e manutenção de sistemas de TI. Estou animado para mergulhar mais fundo na área de desenvolvimento web, uma área que sempre me fascinou.</div>  
+  ### <div align="center">Sou Desenvolvedor Full Stack apaixonado, com 14 anos de experiência em suporte e manutenção de sistemas de TI. Estou animado para mergulhar mais fundo na área de desenvolvimento web, uma área que sempre me fascinou.</div>  
     
   
   - 🔍 Objetivo Profissional: Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.  

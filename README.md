@@ -3,19 +3,21 @@
   </div>  
     
   
-  ### <div align="center">Sou Desenvolvedor Full Stack apaixonado, com 14 anos de experiência em suporte e manutenção de sistemas de TI. Estou animado para mergulhar mais fundo na área de desenvolvimento web, uma área que sempre me fascinou.</div>  
+  ### <div align="center">Engenheiro de Software - Full Stack. Apaixonado por desenvolvimento web e buscando novos desafios em projetos inovadores.</div>  
     
   
-  - 🔍 Objetivo Profissional: Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.  
+  ↳ Sempre fui fascinado pelo mundo da tecnologia e pelo desenvolvimento web.  
     
   
-  - 🌱 Comprometimento: Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha experiência, me qualifica como um candidato ideal para a posição.  
+  ↳ Aprender e me especializar em novas tecnologias me motiva e me impulsiona a buscar novos desafios.  
     
   
-  - 🤝 Abordagem de Trabalho: Valorizo a colaboração, a inovação e a qualidade, e estou sempre buscando maneiras de melhorar e crescer.  
+  ↳ Acredito que a tecnologia tem o poder de transformar o mundo e quero fazer parte dessa mudança.  
     
   
-  - Nos meus momentos de lazer, amo correr 🏃‍♂️, malhar 🏋️‍♂️, e jogar tênis com amigos. 🎾.  
+  - Nos meus momentos de lazer, gosto de correr, malhar e jogar tênis com amigos.
+  - Acredito que manter um estilo de vida saudável contribui para o meu bem-estar e produtividade no trabalho.
+  - Sou uma pessoa proativo e colaborativo, buscando uma oportunidade para crescer profissionalmente e contribuir para o sucesso da empresa.  
     
   
   <br/>  

@@ -3,7 +3,7 @@
   </div>  
     
   
-  ### <div align="center">Engenheiro de Software - Full Stack. Apaixonado por desenvolvimento web e buscando novos desafios em projetos inovadores.</div>  
+  ### <div align="center">Desenvolvedor Front-end em formação em criar interfaces de usuário excepcionais e experiências web responsivas. Conhecimento em React, TypeScript, JavaScript (ES6+), HTML e CSS (incluindo Flexbox e Grid). Apaixonado por construir aplicações web modernas e eficientes, com foco em experiência do usuário e usabilidade.</div>  
     
   
   ↳ Sempre fui fascinado pelo mundo da tecnologia e pelo desenvolvimento web.  

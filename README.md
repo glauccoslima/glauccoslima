@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/main/LINK-CAPA2.png" align="center" style="width: 100%" />
+  <img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/main/link-cap3.png" align="center" style="width: 100%" />
   </div>  
     
   

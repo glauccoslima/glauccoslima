@@ -17,7 +17,9 @@
     
   
   🏃‍♂️ Nos meus momentos de lazer, gosto de correr, malhar e jogar tênis com amigos.
+
   ✨ Acredito que manter um estilo de vida saudável contribui para o meu bem-estar e produtividade no trabalho.
+
   🤝 Sou uma pessoa proativo e colaborativo, buscando uma oportunidade para crescer profissionalmente e contribuir para o sucesso da empresa.  
     
   

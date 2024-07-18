@@ -3,7 +3,7 @@
   </div>  
     
   
-  ### Desenvolvedor Front-end em formação em criar interfaces de usuário excepcionais e experiências web responsivas. Conhecimento em React, TypeScript, JavaScript (ES6+), HTML e CSS (incluindo Flexbox e Grid). Apaixonado por construir aplicações web modernas e eficientes, com foco em experiência do usuário e usabilidade.
+  ### Desenvolvedor Front-end em formação em criar interfaces de usuário excepcionais e experiências web responsivas. Conhecimento em React, React Native, Vue, TypeScript, Tailwind CSS. Apaixonado por construir aplicações web modernas e eficientes, com foco em experiência do usuário e usabilidade.
   
     
   

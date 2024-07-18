@@ -3,14 +3,14 @@
   </div>  
     
   
-  ### Desenvolvedor Front-end em formação em criar interfaces de usuário excepcionais e experiências web responsivas. Conhecimento em React, React Native, Vue, TypeScript, Tailwind CSS. Apaixonado por construir aplicações web modernas e eficientes, com foco em experiência do usuário e usabilidade.
+  ### Engenheiro Front-end e Mobile com Experiência em Desenvolvimento de Interfaces e Aplicações Responsivas.
   
     
   
-  ↳ Sempre fui fascinado pelo mundo da tecnologia e pelo desenvolvimento web.  
+  ↳ Sempre fui fascinado pelo mundo da tecnologia e pelo desenvolvimento web e aplicativo.  
     
   
-  ↳ Aprender e me especializar em novas tecnologias me motiva e me impulsiona a buscar novos desafios.  
+  ↳ Especializar em novas tecnologias me motiva e me impulsiona a buscar novos desafios.  
     
   
   ↳ Acredito que a tecnologia tem o poder de transformar o mundo e quero fazer parte dessa mudança.  
@@ -20,7 +20,7 @@
 
   ✨ Acredito que manter um estilo de vida saudável contribui para o meu bem-estar e produtividade no trabalho.
 
-  🤝 Sou uma pessoa proativo e colaborativo, buscando uma oportunidade para crescer profissionalmente e contribuir para o sucesso da empresa.  
+  🤝 Profissional altamente proativo e colaborativo, em busca de oportunidades para impulsionar meu crescimento profissional e contribuir efetivamente para o sucesso da empresa. Com um histórico de iniciativa em projetos e melhorias de processos, estou pronto para trazer soluções inovadoras e trabalhar eficazmente em equipe.  
     
   
   <br/>  

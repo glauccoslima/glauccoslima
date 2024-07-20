@@ -63,6 +63,7 @@
   <a href="https://www.jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/5ffb0699e6a0e580ee966e557653f67d3a9f6548/jest.svg" alt="Jest" width="50" height="50"/></a>
   <a href="https://www.cypress.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/03a1dbf3a6da5080b147c3cc7b5c97ddcc63e0dd/Cypress.svg" alt="Cypress" width="100" height="50"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/a648ba3ce0ffd2276ad9db96943f1a3efb6931c6/tailwind-css.svg" alt="TailwindCSS" width="100" height="50"></a>
+  <a href="https://axios-http.com" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/eaf8de056f4171b4d1ef89780f0143a2ddd01ad8/Axios.svg" alt="Axios" width="100" height="50"></a>
   </div>
   
   </td><td valign="top" width="50%">
@@ -81,6 +82,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/706aa254dc0fafd7c5213fb20353e341aff37efb/api.svg" alt="api" width="50" height="50"></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/7a3d5d598367eb95727e0a053587a50bdbff3847/python.svg" alt="Python" width="100" height="50" /></a>  
     <a href="https://www.jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/5ffb0699e6a0e580ee966e557653f67d3a9f6548/jest.svg" alt="Jest" width="50" height="50"/></a>
+    <a href="https://axios-http.com" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/eaf8de056f4171b4d1ef89780f0143a2ddd01ad8/Axios.svg" alt="Axios" width="100" height="50"></a>
   
 </div>
   

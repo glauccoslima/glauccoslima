@@ -3,7 +3,7 @@
   </div>  
     
   
-  ### Engenheiro Front-end e Mobile com Experiência em Desenvolvimento de Interfaces e Aplicações Responsivas.
+  ### Full Stack Developer com Experiência em Desenvolvimento de Interfaces e Aplicações Responsivas.
   
     
   

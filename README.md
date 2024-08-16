@@ -56,10 +56,10 @@
 <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/1fc22e0acdb043d74b3e5c7e1891e4e6690feb07/react.svg" alt="React" width="50" height="50"/><br>React</a>
 </td>
 <td align="center" width="100">
-<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/0386ff38c9d0010c095a1a69e0ad8313e55ceb3e/redux.svg" alt="Redux" width="50" height="50"/><br>Redux</a>
+<a href="https://reactrouter.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/34cd1719dfce54a0c58a05695dbb92a6f216df7d/react-router.svg" alt="React Router" width="50" height="50"/><br>React Router</a>
 </td>
 <td align="center" width="100">
-<a href="https://reactrouter.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/34cd1719dfce54a0c58a05695dbb92a6f216df7d/react-router.svg" alt="React Router" width="50" height="50"/><br>React Router</a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/0386ff38c9d0010c095a1a69e0ad8313e55ceb3e/redux.svg" alt="Redux" width="50" height="50"/><br>Redux</a>
 </td>
 <td align="center" width="100">
 <a href="https://styled-components.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/7f9f21d319effa061c042b3a21847bfca3f9a2eb/styled-components.svg" alt="Styled Components" width="50" height="50"/><br>Styled Components</a>
@@ -70,10 +70,10 @@
 <a href="https://eslint.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/330e3500b0005a053f6ae9382163bbfa94152d6e/eslint.svg" alt="Eslint" width="100" height="50"/><br>Eslint</a>
 </td>
 <td align="center">
-<a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/908ccd107d4dd67664c41807068fa8d31ce55ed8/babel.svg" alt="Babel" width="100" height="50"/><br>Babel</a>
-</td>
-<td align="center">
 <a href="https://prettier.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/af759a5e5e1d3d73eda5891b8a89928caa5042b5/prettier.svg" alt="Prettier" width="50" height="50"/><br>Prettier</a>
+</td>  
+<td align="center">
+<a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/908ccd107d4dd67664c41807068fa8d31ce55ed8/babel.svg" alt="Babel" width="100" height="50"/><br>Babel</a>
 </td>
 <td align="center">
 <a href="https://editorconfig.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/70c26d2104ee67cbcc13237f35bde2456731c871/editorconfig.svg" alt="EditorConfig" width="50" height="50"/><br>EditorConfig</a>

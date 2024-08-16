@@ -104,7 +104,7 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/39cb96d9852d51304e87f25825a9f80ccd3c36d2/bootstrap.svg" alt="Bootstrap" width="50"/><br>Bootstrap</a>
 </td>
 <td align="center" width="100">
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/f43867b149d6f092451afdf3887a92347411510b/tailwind-css.svg" alt="TailwindCSS" width="100" height="50"/><br>Tailwind CSS</a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/6a4e2fb71f4b6f8c20dcf7190daaa00ab9cb756c/tailwind-css.svg" alt="TailwindCSS" width="100" height="50"/><br>Tailwind CSS</a>
 </td>
 </tr>
 <tr>

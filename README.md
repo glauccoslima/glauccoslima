@@ -109,7 +109,7 @@
 </tr>
 <tr>
 <td align="center" width="100">
-   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/4006e9adde9c541f17f839772c7bd3941a680374/vue-js.svg" alt="Vue.js" width="100" height="50"/><br>Vue.js</a>
+   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/ecbcddd82bacf89bb96cc4c147e110954167541f/vue-js.svg" alt="Vue.js" width="100" height="50"/><br>Vue.js</a>
     </td>
     <td align="center" width="100">
       <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/706aa254dc0fafd7c5213fb20353e341aff37efb/api.svg" alt="api" width="50" height="50"/><br>API</a>

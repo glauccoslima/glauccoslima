@@ -71,7 +71,7 @@
 </td>
 <td align="center">
 <a href="https://prettier.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/af759a5e5e1d3d73eda5891b8a89928caa5042b5/prettier.svg" alt="Prettier" width="50" height="50"/><br>Prettier</a>
-</td>  
+</td>
 <td align="center">
 <a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/908ccd107d4dd67664c41807068fa8d31ce55ed8/babel.svg" alt="Babel" width="100" height="50"/><br>Babel</a>
 </td>
@@ -133,6 +133,19 @@
     </td>
     <td align="center" width="100">
         <a href="https://www.cypress.io/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/9b4e2b09fc3199412337182db02b11c157ca2ba7/Cypress.svg" alt="Cypress" width="100" height="50"/><br>Cypress</a>
+    </td>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/198bf27875cc79f839ce592cb4e8fc849e590bc4/python.svg" alt="Python" width="100" height="50"/><br>Python</a>
+    </td>
+      <td align="center" width="100">
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/6a43372f18017399150d288ca7870552b28652db/postgresql.svg" alt="PostgreSQL" width="100" height="50"/><br>PostgreSQL</a>
+    </td>
+    <td align="center" width="100">
+        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/05399e4573e37dde7b8d09936c2d82aa1a832f77/django.svg" alt="Django" width="100" height="50"/><br>Django</a>
+    </td>
+     <td align="center" width="100">
+        <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/c65910ced7a621cbad3bb544d04cf450c7d4b00b/djangorest.svg" alt="Django REST framework" width="100" height="50"/><br>Django REST framework</a>
     </td>
 </tr>
 </table>
